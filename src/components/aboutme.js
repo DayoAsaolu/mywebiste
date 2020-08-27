@@ -5,7 +5,7 @@ class aboutme extends Component {
     render() {
         return (
             <div className="contact-body">
-                    k="a6c1e517793d8cbf32318923608c169a"
+                    
                     <Cell col={6}>
                         
                         
