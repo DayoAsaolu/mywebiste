@@ -69,7 +69,7 @@ class Resume extends Component {
                         <hr style={{borderTop: '3px solid #e22947'}} />
 
                         <h2> Skills </h2>
-                        <Skills skillGroup="Programming Languages" skills="Python, Bash/Shell, JavaScript, Java, C++, MySQL" />
+                        <Skills skillGroup="Programming Languages" skills="Python, Bash/Shell, JavaScript, Java, MySQL" />
 
                         <Skills skillGroup="Technologies/Tools" skills="Docker, Git, Github, AWS, UnitTesting, Visual Studio Code, SublimeText"/>
 
