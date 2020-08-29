@@ -18,7 +18,7 @@ class Resume extends Component {
                             />
                         </div>
                         <h2 style={{paddingTop: '2em'}}>Dayo Asaolu </h2>
-                        <h4 style={{color: "grey"}}>Programmer</h4>
+                        <h4 style={{color: "grey"}}></h4>
                         <hr style={{borderTop: '3px solid #833fb2', width:'50%'}}/>
                         <p>Graduate of Computer Science with practical experiences in web application development,
                             as well as backend development which were gained through several coursework and
@@ -33,7 +33,7 @@ class Resume extends Component {
                             <h5>Email</h5>
                             <p>asaoludavid@gmail.com</p>
                             <h5>Web</h5>
-                            <p>mywebsite.com</p>
+                            <p>dayoasaolu.com</p>
                             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
                     </Cell>
                     <Cell className="resume-right-col" col={8}>
